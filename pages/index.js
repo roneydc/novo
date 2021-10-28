@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
-export default function Home({ list }) {
+export default function Home({list}) {
 
 
   return (
@@ -23,7 +23,7 @@ export default function Home({ list }) {
 
         <ul>
           {list.map(item => (
-            <li>
+            <li key={item.id}>
               <a href={`/sobre/${item.id}`}>
                 <img src='/tel.png' width='45'></img>
                 <a>{item.name}</a> 
