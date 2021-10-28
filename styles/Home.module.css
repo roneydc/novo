@@ -23,7 +23,7 @@
   position:fixed;
   height: 100px;
   text-align:center;
-  padding:20px 0px;
+  padding:10px 0px;
   background-color:#38ada9;
   width: 100%;
   font-size:40px;
@@ -50,7 +50,7 @@
 .main c{
   color:rgb(49, 49, 44);
   text-align: center;
-  font-size:25px;
+  font-size:20px;
 }
 
 .main a{
