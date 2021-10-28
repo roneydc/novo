@@ -5,7 +5,6 @@ import Link from 'next/link'
 
 export default function Home({list}) {
 
-
   return (
     <div className={styles.container}>
       <Head>
@@ -14,8 +13,6 @@ export default function Home({list}) {
         <link rel="icon" href="/tel.png" />
         
       </Head>
-
-
       <main className={styles.main}>
         <h1>
           Lista de Contatos
