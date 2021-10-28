@@ -21,12 +21,12 @@
   top:0;
   margin-top: 0;
   position:fixed;
-  height: 120px;
+  height: 100px;
   text-align:center;
-  padding:30px 0px;
+  padding:20px 0px;
   background-color:#38ada9;
   width: 100%;
-  font-size:50px;
+  font-size:40px;
   color:rgb(58, 57, 57);
 }
 
@@ -36,6 +36,7 @@
   padding:0px 0px;
   height: 60vh;
   border-radius:40px;
+  align-items: center;
 }
 .main li{
   display:outside;
@@ -44,6 +45,7 @@
   height: 10vh;
   text-align-last: auto;
   font-size:18px;
+  align-items: center;
 }
 .main c{
   color:rgb(49, 49, 44);
