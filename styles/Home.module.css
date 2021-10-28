@@ -33,17 +33,17 @@
 .main ul{
   list-style:none;
   background-color:#b8e994;
-  padding:60px 60px;
-  height: 70vh;
+  padding:0px 0px;
+  height: 60vh;
   border-radius:40px;
 }
 .main li{
   display:outside;
   color:rgb(49, 49, 44);
-  padding:30px 100px;
+  padding:0px 0px;
   height: 10vh;
   text-align-last: auto;
-  font-size:20px;
+  font-size:18px;
 }
 .main c{
   color:rgb(49, 49, 44);
