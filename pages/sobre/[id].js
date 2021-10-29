@@ -20,8 +20,6 @@ export default function SobreItem({list}) {
           Informações do contato                
         </h1>
         <ul>
-          
-          
           <c>
             <img src='/user.png' width='200'></img>
             <p>Nome: {list.name}</p>
