@@ -7,7 +7,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color:#78e08f;
+  background-color:#C2C2CB;
 }
 
 .main {
@@ -24,15 +24,15 @@
   height: 100px;
   text-align:center;
   padding:10px 0px;
-  background-color:#38ada9;
+  background-color:#000000;
   width: 100%;
   font-size:40px;
-  color:rgb(58, 57, 57);
+  color:#0A8791;
 }
 
 .main ul{
   list-style:none;
-  background-color:#b8e994;
+  background-color:#7F8C8D;
   padding:0px 0px;
   height: 60vh;
   border-radius:40px;
@@ -40,7 +40,7 @@
 }
 .main li{
   display:outside;
-  color:rgb(49, 49, 44);
+  color:#7F8C8D;
   padding:0px 0px;
   height: 10vh;
   text-align-last: auto;
@@ -67,7 +67,7 @@
   height: 40px;
   text-align:center;
   padding:0px 0px;
-  background-color:#38ada9;
+  background-color:#FBA83C;
   width: 100%;
   font-size:16px
 }
