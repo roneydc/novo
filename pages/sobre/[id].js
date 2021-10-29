@@ -19,7 +19,7 @@ export default function SobreItem({list}) {
         <h1 className={styles.title}>
           Informações do contato                
         </h1>
-        <ul>
+        <t>
           <img src='/user.png' width='200'></img>
           
           <c>
@@ -29,7 +29,7 @@ export default function SobreItem({list}) {
             <p>Idade: {list.idade}</p>
             <p>Altura: {list.altura}</p>
           </c>
-        </ul>
+        </t>
         <rodape>
           <b>Pagina em modo Teste @Corporetion 2021</b>
         </rodape>
